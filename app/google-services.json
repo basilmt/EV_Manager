@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1027764944340",
+    "project_id": "ev-manager1",
+    "storage_bucket": "ev-manager1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027764944340:android:f0f0c51dad3e26f6a5ea41",
+        "android_client_info": {
+          "package_name": "me.basilmt.evmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027764944340-ouqtkdbedtq2cdfi32p3qh2b2rpn2jaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.basilmt.evmanager",
+            "certificate_hash": "a04a1e5575b6c999e50ad0bdcc83b136d98cc0f9"
+          }
+        },
+        {
+          "client_id": "1027764944340-gc6dlvdlpe5f5n3bprgjkl4qv38u527m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGh9Mp8fPHB5-oTW0aVnPZYjywrqQJNYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027764944340-gc6dlvdlpe5f5n3bprgjkl4qv38u527m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
